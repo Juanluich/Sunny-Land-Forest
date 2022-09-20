@@ -1,5 +1,7 @@
 # Unity 2D Coding Practice
-// ENGLISH
+
+**ENGLISH**
+
 The main idea was the development and complete programming of a small platformer level with start and end.
 
 Also to program **a state machine** for the behaviour of different enemies.
@@ -18,8 +20,10 @@ This was discarded due to code optimisation and was solved with an extra animati
 
 Also a WebGL build has been created to play directly the prototype from the browser from my itch.io page https://juanluich.itch.io/
 
+---------------------------------------------------------------------------------------------------------------------------------------------
 
- // SPANISH
+**SPANISH**
+
  La idea principal era el desarrollo y programación completa de un pequeño nivel de plataformas con inicio y fin.
  
  También programar **una máquina de estados** para el comportamiento de diferentes enemigos.
